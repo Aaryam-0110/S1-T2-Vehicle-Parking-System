@@ -23,7 +23,7 @@
   
    > Motivation: The motivation for the current project is based on the increasing need for smart parking solutions for two-wheeler and four-wheeler vehicles within urban areas. As the number of vehicles increases, there is a need for efficient management of parking to avoid congestion, save time, and lessen environmental impact. Therefore, this project targets the contribution towards making parking systems smarter and more efficient by satisfying the needs of both.
   
-   > Problem Statement: he problem we have in our mind is to design a probable and costeffective parking counting system for two-wheeler and four-wheeler types of vehicles. Counting by human beings with conventional methods is always error-prone, and the available automatic methods are pretty heavy on budget and are complicated ones. We plan to design a solution that counts both vehicle types correctly without any challenges at all.
+   > Problem Statement: he problem we have in our mind is to design a probable and costeffective parking counting system for two-wheeler and four-wheeler types of vehicles. Counting by human beings with conventional methods is always error-prone, and the available automatic methods are pretty heavy on budget and are complicated ones. We plan to design a solution that counts both vehicle types correctly without any challenges at all.
   
    > Features:
  The design objectives of the Logic Parking Counter for two and four wheelers are
