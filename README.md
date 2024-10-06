@@ -24,6 +24,6 @@ vehicles. Finally, the system will also be designed to accommodate a variety of 
 parking areas as well as flexible traffic patterns to ensure it runs efficiently in different parking
 environments. [Iyangg, 2024]
 # References
-[https://youtu.be/U9_VQT4JSwU?si=QuwDRO6cdQGoPS13]<br>
-[https://search.app/?link=https%3A%2F%2Fwww%2Esmec%2Eac%2Ein%2Fassets%2Fimages%2Fresearch%2Fece%2F20%2D21%2F31%2EIJSRED%2DV4I3P54%2Epdf&utm_campaign=57165%2Dor%2Digacx%2Dweb%2Dshrbtn%2Diga%2Dsharing&utm_source=igadl%2Cigatpdl%2Csh%2Fx%2Fgs%2Fm2%2F5]<br>
-[https://search.app/?link=https%3A%2F%2Fwww%2Eresearchgate%2Enet%2Fpublication%2F360489566%5FMulti%2DCar%5FParking%5FSystem%5FUsing%5FVerilog&utm_campaign=57165%2Dor%2Digacx%2Dweb%2Dshrbtn%2Diga%2Dsharing&utm_source=igadl%2Cigatpdl%2Csh%2Fx%2Fgs%2Fm2%2F5]<br>
+1. https://youtu.be/U9_VQT4JSwU?si=QuwDRO6cdQGoPS13<br>
+2. https://search.app/?link=https%3A%2F%2Fwww%2Esmec%2Eac%2Ein%2Fassets%2Fimages%2Fresearch%2Fece%2F20%2D21%2F31%2EIJSRED%2DV4I3P54%2Epdf&utm_campaign=57165%2Dor%2Digacx%2Dweb%2Dshrbtn%2Diga%2Dsharing&utm_source=igadl%2Cigatpdl%2Csh%2Fx%2Fgs%2Fm2%2F5<br>
+3. https://search.app/?link=https%3A%2F%2Fwww%2Eresearchgate%2Enet%2Fpublication%2F360489566%5FMulti%2DCar%5FParking%5FSystem%5FUsing%5FVerilog&utm_campaign=57165%2Dor%2Digacx%2Dweb%2Dshrbtn%2Diga%2Dsharing&utm_source=igadl%2Cigatpdl%2Csh%2Fx%2Fgs%2Fm2%2F5<br>
