@@ -41,8 +41,7 @@ parking areas as well as flexible traffic patterns to ensure it runs efficiently
 <details>
   <summary>Detail</summary>
 
-  > Explain the working of your model with the help of a functional table (compulsory) followed by the flowchart.
-<img alt="S1-T2" src="https://github.com/user-attachments/assets/362b9c31-faef-448c-b42f-fb8301546c6a"><img/>
+<img alt="S1-T2" src="https://github.com/user-attachments/assets/43fe22df-b065-41ea-86ca-430812d08a5b"><img/>
 
 </details>
 
