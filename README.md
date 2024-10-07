@@ -42,6 +42,8 @@ parking areas as well as flexible traffic patterns to ensure it runs efficiently
   <summary>Detail</summary>
 
   > Explain the working of your model with the help of a functional table (compulsory) followed by the flowchart.
+<img alt="S1-T2" src="https://github.com/user-attachments/assets/362b9c31-faef-448c-b42f-fb8301546c6a"><img/>
+
 </details>
 
 <!-- Fourth Section -->
@@ -51,6 +53,8 @@ parking areas as well as flexible traffic patterns to ensure it runs efficiently
 
   > Explain the working of your model with the help of a functional table (compulsory) followed by the flowchart.
 </details>
+
+
 
 <!-- Fifth Section -->
 ## Logisim Circuit Diagram
