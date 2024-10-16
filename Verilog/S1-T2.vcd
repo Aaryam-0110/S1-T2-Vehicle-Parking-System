@@ -1,0 +1,291 @@
+$date
+	Wed Oct 16 22:41:58 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_parking_system $end
+$var wire 8 ! total_cars_entered [7:0] $end
+$var wire 8 " total_bikes_entered [7:0] $end
+$var wire 8 # cars_in_parking [7:0] $end
+$var wire 8 $ bikes_in_parking [7:0] $end
+$var reg 1 % bike_entry $end
+$var reg 1 & bike_exit $end
+$var reg 1 ' car_entry $end
+$var reg 1 ( car_exit $end
+$var reg 1 ) clk $end
+$var reg 1 * rst $end
+$scope module uut $end
+$var wire 1 % bike_entry $end
+$var wire 1 & bike_exit $end
+$var wire 1 ' car_entry $end
+$var wire 1 ( car_exit $end
+$var wire 1 ) clk $end
+$var wire 1 * rst $end
+$var reg 8 + bikes_in_parking [7:0] $end
+$var reg 8 , cars_in_parking [7:0] $end
+$var reg 8 - total_bikes_entered [7:0] $end
+$var reg 8 . total_cars_entered [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 .
+b0 -
+b0 ,
+b0 +
+1*
+0)
+0(
+0'
+0&
+0%
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#5
+1)
+#10
+0)
+0*
+#15
+1)
+#20
+0)
+1'
+#25
+b1 #
+b1 ,
+b1 !
+b1 .
+1)
+#30
+0)
+0'
+#35
+1)
+#40
+0)
+1'
+#45
+b10 #
+b10 ,
+b10 !
+b10 .
+1)
+#50
+0)
+0'
+#55
+1)
+#60
+0)
+1'
+#65
+b11 #
+b11 ,
+b11 !
+b11 .
+1)
+#70
+0)
+0'
+#75
+1)
+#80
+0)
+1'
+#85
+b100 #
+b100 ,
+b100 !
+b100 .
+1)
+#90
+0)
+0'
+#95
+1)
+#100
+0)
+1'
+#105
+b101 #
+b101 ,
+b101 !
+b101 .
+1)
+#110
+0)
+0'
+#115
+1)
+#120
+0)
+1%
+#125
+b1 $
+b1 +
+b1 "
+b1 -
+1)
+#130
+0)
+0%
+#135
+1)
+#140
+0)
+1%
+#145
+b10 $
+b10 +
+b10 "
+b10 -
+1)
+#150
+0)
+0%
+#155
+1)
+#160
+0)
+1%
+#165
+b11 $
+b11 +
+b11 "
+b11 -
+1)
+#170
+0)
+0%
+#175
+1)
+#180
+0)
+1%
+#185
+b100 $
+b100 +
+b100 "
+b100 -
+1)
+#190
+0)
+0%
+#195
+1)
+#200
+0)
+1%
+#205
+b101 $
+b101 +
+b101 "
+b101 -
+1)
+#210
+0)
+0%
+#215
+1)
+#220
+0)
+1%
+#225
+b110 $
+b110 +
+b110 "
+b110 -
+1)
+#230
+0)
+0%
+#235
+1)
+#240
+0)
+1%
+#245
+b111 $
+b111 +
+b111 "
+b111 -
+1)
+#250
+0)
+0%
+#255
+1)
+#260
+0)
+1(
+#265
+b100 #
+b100 ,
+1)
+#270
+0)
+0(
+#275
+1)
+#280
+0)
+1(
+#285
+b11 #
+b11 ,
+1)
+#290
+0)
+0(
+#295
+1)
+#300
+0)
+1&
+#305
+b110 $
+b110 +
+1)
+#310
+0)
+0&
+#315
+1)
+#320
+0)
+1&
+#325
+b101 $
+b101 +
+1)
+#330
+0)
+0&
+#335
+1)
+#340
+0)
+1&
+#345
+b100 $
+b100 +
+1)
+#350
+0)
+0&
+#355
+1)
+#360
+0)

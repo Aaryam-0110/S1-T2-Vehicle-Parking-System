@@ -1,0 +1,81 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Oct 16 17:11:21 2024
+[*]
+[dumpfile] "D:\NITK\DDS\Mini Project\S1-T2.vcd"
+[dumpfile_mtime] "Wed Oct 16 17:09:11 2024"
+[dumpfile_size] 2309
+[savefile] "D:\NITK\DDS\Mini Project\S1-T2.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -191 -186
+*-6.745248 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_parking_system.
+[sst_width] 197
+[signals_width] 222
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@28
+tb_parking_system.rst
+tb_parking_system.clk
+tb_parking_system.bike_entry
+@800022
+tb_parking_system.total_bikes_entered[7:0]
+@28
+(0)tb_parking_system.total_bikes_entered[7:0]
+(1)tb_parking_system.total_bikes_entered[7:0]
+(2)tb_parking_system.total_bikes_entered[7:0]
+(3)tb_parking_system.total_bikes_entered[7:0]
+(4)tb_parking_system.total_bikes_entered[7:0]
+(5)tb_parking_system.total_bikes_entered[7:0]
+(6)tb_parking_system.total_bikes_entered[7:0]
+(7)tb_parking_system.total_bikes_entered[7:0]
+@1001200
+-group_end
+@28
+tb_parking_system.bike_exit
+@800022
+tb_parking_system.bikes_in_parking[7:0]
+@28
+(0)tb_parking_system.bikes_in_parking[7:0]
+(1)tb_parking_system.bikes_in_parking[7:0]
+(2)tb_parking_system.bikes_in_parking[7:0]
+(3)tb_parking_system.bikes_in_parking[7:0]
+(4)tb_parking_system.bikes_in_parking[7:0]
+(5)tb_parking_system.bikes_in_parking[7:0]
+(6)tb_parking_system.bikes_in_parking[7:0]
+(7)tb_parking_system.bikes_in_parking[7:0]
+@1001200
+-group_end
+@28
+tb_parking_system.car_entry
+@800022
+tb_parking_system.total_cars_entered[7:0]
+@28
+(0)tb_parking_system.total_cars_entered[7:0]
+(1)tb_parking_system.total_cars_entered[7:0]
+(2)tb_parking_system.total_cars_entered[7:0]
+(3)tb_parking_system.total_cars_entered[7:0]
+(4)tb_parking_system.total_cars_entered[7:0]
+(5)tb_parking_system.total_cars_entered[7:0]
+(6)tb_parking_system.total_cars_entered[7:0]
+(7)tb_parking_system.total_cars_entered[7:0]
+@1001200
+-group_end
+@28
+tb_parking_system.car_exit
+@800023
+tb_parking_system.cars_in_parking[7:0]
+@29
+(0)tb_parking_system.cars_in_parking[7:0]
+(1)tb_parking_system.cars_in_parking[7:0]
+(2)tb_parking_system.cars_in_parking[7:0]
+(3)tb_parking_system.cars_in_parking[7:0]
+(4)tb_parking_system.cars_in_parking[7:0]
+(5)tb_parking_system.cars_in_parking[7:0]
+(6)tb_parking_system.cars_in_parking[7:0]
+(7)tb_parking_system.cars_in_parking[7:0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
