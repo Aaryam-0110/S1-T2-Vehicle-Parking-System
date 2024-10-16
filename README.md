@@ -183,20 +183,25 @@ module tb_parking_system();
         #10;
         rst = 0;
 
-        #10 car_entry = 1;
-        #10 car_entry = 0;
+        repeat(5) begin
+            #10 car_entry = 1;
+            #10 car_entry = 0;
+        end
 
-        #10 bike_entry = 1;
-        #10 bike_entry = 0;
+        repeat(7) begin
+            #10 bike_entry = 1;
+            #10 bike_entry = 0;
+        end
 
-        #10 car_entry = 1;
-        #10 car_entry = 0;
+        repeat(2) begin
+            #10 car_exit = 1;
+            #10 car_exit = 0;
+        end
 
-        #10 car_exit = 1;
-        #10 car_exit = 0;
-
-        #10 bike_exit = 1;
-        #10 bike_exit = 0;
+        repeat(3) begin
+            #10 bike_exit = 1;
+            #10 bike_exit = 0;
+        end
 
         #10;
         $display("Total cars entered: %d", total_cars_entered);
