@@ -223,16 +223,17 @@ endmodule
  <details>
   <summary>Detail</summary>
 
-[1] 
+[1] [Gattadi Vinatha, 2021] Gattadi Vinatha, C. (2021). Multi-car parking system using verilog. SMEC.
+Accessed: 2024-09-30.
 
-[2] 
+[2] [Iyangg, 2024] Iyangg (2024). Multi-car parking system. YouTube. Accessed: 2024-09-30.
+ 
+[3] [R. et al., 2022] R., R. V. et al. (2022). Multi-car parking system using verilog. ResearchGate.
+Accessed: 2024-09-30.
 
-[3] 
+ 
 
-[4] 
-
-[5] 
-
+ 
 
 
  
