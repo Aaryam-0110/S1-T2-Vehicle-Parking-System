@@ -218,5 +218,25 @@ endmodule
   
 </details>
 
+<!-- Seventh Section -->
+ ## References
+ <details>
+  <summary>Detail</summary>
+
+[1] 
+
+[2] 
+
+[3] 
+
+[4] 
+
+[5] 
+
+
+
+ 
+
+</details>
 
 
